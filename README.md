@@ -1,5 +1,7 @@
 # Yume's Spellbook
 
+![](images/image.png)
+
 **Yume's Spellbook** is a magical and playful interactive experience that helps non-experts understand how Large Language Models (LLMs) work. Through its narrative, the project fosters trust by clarifying the capabilities, limitations, and potential issues of LLMs. It aims to make complex concepts more accessible and engaging through a fun and educational journey.
 
 ## Sound Effects
